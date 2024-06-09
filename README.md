@@ -1,4 +1,8 @@
-## NEOXR-BOT (BETA TEST)
+## CHAT SAYA JIKA INGIN TANYA CARA PASANG GRATIS !!
+
+## SEDIKIT RECODE DARI WIBOT
+
+## SC RECODE DARI https://github.com/neoxr/neoxr-bot
 
 > An implementation of [@neoxr/wb](https://www.npmjs.com/package/@neoxr/wb) which has been optimized to be lightweigth.
 
