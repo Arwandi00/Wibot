@@ -1,6 +1,6 @@
 {
-   "owner": "6285887776722",
-   "owner_name": "Wildan Izzudin",
+   "owner": "6285161098098",
+   "owner_name": "Poiuy",
    "database": "data",
    "limit": 15,
    "ram_limit": "900mb",
@@ -16,7 +16,7 @@
    "evaluate_chars":  ["=>", "~>", "<", ">", "$"],
    "pairing": {
       "state": true,
-      "number": 62857035017442
+      "number": 6285161098098
    },
    "replit_url": ""
 }
